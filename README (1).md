@@ -1,7 +1,8 @@
+<img width="796" height="796" alt="65305dbe9635e9e7cd3c04e24054964b" src="https://github.com/user-attachments/assets/ebe250c0-c59f-4fd9-ba38-4bbd0eac797c" />
 
 # xxx的自我介绍
 
-<img src="C:\Users\17520\Desktop\65305dbe9635e9e7cd3c04e24054964b.jpg" width="200" alt="个人头像">
+
 
 ## 大家好，我是**xxx**，我的身份是*xxx*。以下是我的自我介绍：
 
